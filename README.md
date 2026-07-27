@@ -14,7 +14,7 @@
 
 <br/>
 
-BCA student at Nandi Institute of Management and Science, graduating 2027. I build with Python and Flask, care about the backend as much as the interface sitting on top of it, and I'm currently looking for a Software Development internship.
+BCA student (3rd Year, 5th Semester) at Nandi Institute of Management and Science, graduating 2027. I build with Python and Flask, care about the backend as much as the interface sitting on top of it, and I'm currently looking for a Software Development internship.
 
 </td>
 <td width="38%" valign="top">
@@ -26,7 +26,7 @@ BCA student at Nandi Institute of Management and Science, graduating 2027. I bui
 Ballari, Karnataka, India
 
 **Studying**
-BCA · Class of 2027
+BCA · 3rd Year, 5th Sem · Class of 2027
 
 **Focused on**
 Python, Flask, Backend
@@ -109,14 +109,14 @@ Where my attention is going this year.
 <table width="100%">
 <tr><td>
 
-**Smart Quiz AI** — a quiz management platform with authentication, score tracking, and a real database behind it instead of hardcoded questions.
+**Smart Quiz AI** — a quiz platform with secure authentication, category-based quizzes, a timer, score tracking, and an analytics dashboard behind a real database instead of hardcoded questions.
 `Python` `Flask` `SQLite` `JavaScript`
 [View repository →](https://github.com/shaikmdsofiyan06)
 
 </td></tr>
 <tr><td>
 
-**Quiz Analytics Platform** — took the quiz system further with an analytics layer on top: performance tracking, a proper user model, and cleaner data handling underneath.
+**Quiz Analytics Platform** — took the quiz system further with a leaderboard, performance analytics, a proper user model, and reporting on top of cleaner data handling underneath.
 `Python` `Flask` `SQLite`
 [View repository →](https://github.com/shaikmdsofiyan06)
 
@@ -202,13 +202,16 @@ REST API design
 Backend architecture
 Node.js
 System design basics
+Database optimization
 
 </td>
 <td width="33%" valign="top">
 
 **Aiming for**
 A Software Development internship
-Stronger backend fundamentals
+Scalable web applications
+Cloud technologies
+AI-powered applications
 Production-level code experience
 
 </td>
@@ -271,3 +274,4 @@ If you're hiring for an internship, working on something in Python/Flask, or jus
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=60&width=1000&section=footer" width="100%"/>
 
 </div>
+
