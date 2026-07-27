@@ -1,0 +1,91 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .float1 { animation: float1 9s ease-in-out infinite; }
+      .float2 { animation: float2 12s ease-in-out infinite; }
+      @keyframes float1 {
+        0%,100% { transform: translate(0,0); opacity: 0.2; }
+        50% { transform: translate(14px,-18px); opacity: 0.65; }
+      }
+      @keyframes float2 {
+        0%,100% { transform: translate(0,0); opacity: 0.15; }
+        50% { transform: translate(-20px,14px); opacity: 0.55; }
+      }
+      .ring { animation: spin 18s linear infinite; transform-origin: center; }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      .wave { animation: bob 6s ease-in-out infinite; }
+      @keyframes bob {
+        0%,100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+      }
+      .name-text {
+        font-family: 'Segoe UI', 'Trebuchet MS', sans-serif;
+        font-weight: 800;
+        fill: url(#textGrad);
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="260" rx="0" fill="url(#bgGrad)"/>
+  <circle cx="850" cy="60" r="130" fill="url(#glowPurple)"/>
+  <circle cx="110" cy="200" r="110" fill="url(#glowCyan)"/>
+
+  <!-- Rounded card border, glassmorphism edge -->
+  <rect x="4" y="4" width="992" height="252" rx="18" fill="none" stroke="#233047" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Orbiting ring accent -->
+  <g class="ring" transform="translate(900,55)">
+    <circle r="34" fill="none" stroke="#06B6D4" stroke-width="1.2" opacity="0.5" stroke-dasharray="4 6"/>
+  </g>
+
+  <!-- Floating dots -->
+  <g fill="#22C55E">
+    <circle class="float1" cx="70" cy="50" r="2.4"/>
+    <circle class="float2" cx="190" cy="35" r="2"/>
+    <circle class="float1" cx="270" cy="80" r="1.8"/>
+    <circle class="float2" cx="700" cy="45" r="2.2"/>
+    <circle class="float1" cx="940" cy="150" r="2"/>
+    <circle class="float2" cx="55" cy="190" r="2"/>
+  </g>
+
+  <!-- Rounded accent square -->
+  <rect x="40" y="26" width="22" height="22" rx="6" fill="none" stroke="#7C3AED" stroke-width="1.5" transform="rotate(18 51 37)" class="wave"/>
+
+  <!-- Name -->
+  <text x="60" y="120" font-size="42" class="name-text">Shaik MD Sofiyan</text>
+
+  <!-- Subtitle line -->
+  <text x="62" y="156" font-size="18" fill="#F8FAFC" font-family="Consolas, monospace" opacity="0.9">
+    Full Stack Developer · AI Enthusiast
+  </text>
+  <rect x="430" y="140" width="9" height="18" fill="#06B6D4">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="62" y="186" font-size="14" fill="#94A3B8" font-family="Consolas, monospace">
+    Python · Flask · JavaScript · SQL · Node.js (learning)
+  </text>
+
+  <!-- Bottom wave -->
+  <path class="wave" d="M0,240 C150,222 300,252 450,238 C600,224 750,250 1000,235 L1000,260 L0,260 Z" fill="#161B22"/>
+</svg>
