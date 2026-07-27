@@ -1,205 +1,278 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:06B6D4,100:8B5CF6&height=150&section=header&text=Hi%20there%2C%20I'm%20Shaik%20MD%20Sofiyan&fontSize=32&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%"/>
+<img src="./assets/banner.svg" alt="Banner" width="100%"/>
 
-### BCA Student &nbsp;·&nbsp; AI-Assisted Full-Stack Developer &nbsp;·&nbsp; Building One Project at a Time
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;AI+Enthusiast+%26+Problem+Solver;Building+Real-World+Software" alt="Typing SVG"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaikmdsofiyan06&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/shaikmdsofiyan06?label=Followers&style=social)](https://github.com/shaikmdsofiyan06)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/shaikmdsofiyan06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=06B6D4)](https://www.linkedin.com/in/shaik-md-sofiyan)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shaikmdsofiyan@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=shaikmdsofiyan06&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/shaikmdsofiyan06?label=Followers&style=for-the-badge&color=06B6D4&labelColor=161B22)](https://github.com/shaikmdsofiyan06)
+
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
----
+## About Me
 
-## <img src="https://cdn.simpleicons.org/icloud/0e75b6" width="22" valign="middle"/> About Me
+I'm MD Sofiyan Shaik, a Bachelor of Computer Applications student at Nandi Institute of Management and Science (NIMS), graduating in 2027. I'm a full stack developer with a strong focus on Python and Flask, and I enjoy taking an idea from a blank file to a working product people can actually use.
 
-- <img src="https://cdn.simpleicons.org/googlescholar/0e75b6" width="15" valign="middle"/> &nbsp; Pursuing **Bachelor of Computer Applications (BCA)** at **Nandi Institute of Management and Science**, Karnataka
-- <img src="https://cdn.simpleicons.org/googlemaps/EA4335" width="15" valign="middle"/> &nbsp; Based in **Ballari, Karnataka, India**
-- <img src="https://cdn.simpleicons.org/codecademy/1F4056" width="15" valign="middle"/> &nbsp; Currently learning **Web Development** and exploring **Python & Java**
-- <img src="https://cdn.simpleicons.org/github/181717" width="15" valign="middle"/> &nbsp; Working on personal projects to build my portfolio
-- <img src="https://cdn.simpleicons.org/handshake/0e75b6" width="15" valign="middle"/> &nbsp; Open to collaborating on beginner-friendly open source projects
-- <img src="https://cdn.simpleicons.org/gmail/D14836" width="15" valign="middle"/> &nbsp; Reach me at **shaikmdsofiyano6@gmail.com**
+Lately I've been going deeper into backend development — REST APIs, database design, and the kind of system thinking that holds an application together once it grows past a single script. I'm also learning Node.js to round out my JavaScript skills on the server side, and I stay curious about applied AI: not just using AI tools, but understanding how to build with them responsibly.
 
----
+I care about UI as much as backend logic — a working feature that's confusing to use isn't really finished. Outside of coursework, I'm looking to contribute to open source, take on freelance work, and find a Software Development or Full Stack internship where I can learn from people who've been doing this longer than I have.
 
-## <img src="https://cdn.simpleicons.org/googlescholar/0e75b6" width="22" valign="middle"/> Education
+<img src="./assets/divider.svg" width="100%"/>
 
-| Degree | Institution | Location | Status |
-|--------|-------------|----------|--------|
-| Bachelor of Computer Applications (BCA) | Nandi Institute of Management and Science | Ballari, Karnataka | ![Pursuing](https://img.shields.io/badge/Pursuing-0e75b6?style=flat-square) |
+## Developer Journey
 
----
+```
+2023  ─  Started BCA at Nandi Institute of Management and Science
+      │  First lines of HTML, CSS, and Python
+      │
+2024  ─  Moved from static pages to real logic
+      │  Learned Flask, started building small backend tools
+      │
+2025  ─  Built Smart Quiz AI and the Quiz Analytics Platform
+      │  Went from "it works" to "it works and it's structured well"
+      │  Coordinated Avinya Tech Fest, presented at a technical seminar
+      │
+2026  ─  Deepened backend fundamentals — REST APIs, databases, system design
+      │  Learning Node.js, exploring applied AI development
+      │  Preparing for internship applications
+      │
+2027  ─  Expected graduation — targeting a full-time role or internship
+         in full stack development
+```
 
-## <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="22" valign="middle"/> Tech Stack
+<img src="./assets/divider.svg" width="100%"/>
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## Current Learning
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20(learning)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<table>
+<tr>
+<td align="center" width="20%"><b>REST APIs</b><br/><sub>Designing clean, predictable endpoints</sub></td>
+<td align="center" width="20%"><b>Backend Development</b><br/><sub>Auth, architecture, data flow</sub></td>
+<td align="center" width="20%"><b>System Design</b><br/><sub>How real applications scale</sub></td>
+<td align="center" width="20%"><b>Open Source</b><br/><sub>Reading and contributing to real codebases</sub></td>
+<td align="center" width="20%"><b>AI Development</b><br/><sub>Building with AI, not just prompting it</sub></td>
+</tr>
+</table>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="./assets/divider.svg" width="100%"/>
 
----
+## Career Goals
 
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" valign="middle"/> Projects
+- Land a Software Development or Full Stack internship where I can work on production code
+- Grow into a well-rounded backend engineer without losing my front-end instincts
+- Make a first real contribution to an open source project I actually use
+- Ship at least one AI-assisted application that solves a specific, real problem
+- Keep learning in public — documenting what I build, not just building it
 
-### <img src="https://cdn.simpleicons.org/python/3776AB" width="18" valign="middle"/> Quiz.py — AI-Assisted Quiz Management System
-> A Flask-based quiz management application, with AI-assisted workflows used to speed up question logic, scoring, and route design.
+<img src="./assets/divider.svg" width="100%"/>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Tech Stack
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
+<table>
+<tr>
+<td valign="top" width="20%">
 
----
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="languages"/>
+`SQL`
 
-### <img src="https://cdn.simpleicons.org/sqlite/003B57" width="18" valign="middle"/> QuizReal.py — Advanced Quiz Platform
-> A more advanced iteration of the quiz system, adding persistent storage with SQLite and cleaner separation between logic and data.
+</td>
+<td valign="top" width="20%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**Frameworks**
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs" alt="frameworks"/>
+<sub>Node.js — learning</sub>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
+</td>
+<td valign="top" width="20%">
 
----
+**Database**
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="database"/>
 
-### <img src="https://cdn.simpleicons.org/html5/E34F26" width="18" valign="middle"/> Book Management System
-> A front-end-driven book catalog interface for adding, browsing, and organizing books, built with vanilla JavaScript.
+</td>
+<td valign="top" width="20%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" alt="tools"/>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
+</td>
+<td valign="top" width="20%">
 
----
+**Learning**
+`REST APIs`
+`System Design`
+`Open Source`
+`AI Development`
 
-### <img src="https://cdn.simpleicons.org/googlecalendar/EA4335" width="18" valign="middle"/> Birthday Wishes Website
-> A fully responsive, animation-driven website built to deliver personalized birthday greetings.
+</td>
+</tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="./assets/divider.svg" width="100%"/>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
+## Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/festival/FF6F61" width="18" valign="middle"/> Happy New Year Website
-> A festive, animation-rich landing page exploring CSS animation timing and transitions.
+### Smart Quiz AI
+*(previously quiz.py)*
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+A modern quiz management platform featuring authentication, analytics, score tracking, a responsive UI, and intelligent question management.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
----
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=06B6D4)](https://github.com/shaikmdsofiyan06)
 
-## <img src="https://cdn.simpleicons.org/acclaim/0e75b6" width="22" valign="middle"/> Certifications
+</td>
+<td width="50%" valign="top">
 
-- ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white) &nbsp; **Data Analytics Job Simulation**
-- ![Microsoft](https://img.shields.io/badge/Microsoft%20%2F%20LinkedIn-0e75b6?style=flat-square&logo=microsoft&logoColor=white) &nbsp; **Career Essentials in Generative AI**
-- ![BNX](https://img.shields.io/badge/BNX-0e75b6?style=flat-square&logo=googleclassroom&logoColor=white) &nbsp; **AI Tools Workshop**
-- ![Outskill](https://img.shields.io/badge/Outskill-0e75b6?style=flat-square&logo=googleclassroom&logoColor=white) &nbsp; **Gen AI Master**
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) &nbsp; **Prompt Engineering Foundations**
-- ![IBM](https://img.shields.io/badge/IBM%20CognitiveClass-0e75b6?style=flat-square&logo=ibm&logoColor=white) &nbsp; **SQL & Relational Databases 101**
+### Quiz Analytics Platform
+*(previously quizreal.py)*
 
----
+An advanced quiz platform with an analytics dashboard, deeper database integration, performance tracking, and user management.
 
-## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="22" valign="middle"/> Achievements & Highlights
+`Python` `Flask` `SQLite`
 
-- ![Badge](https://img.shields.io/badge/-Event%20Coordinator%2C%20Avinya%20Tech%20Fest-0e75b6?style=flat-square&logo=eventbrite&logoColor=white) &nbsp; Led two competition rounds end-to-end
-- ![Badge](https://img.shields.io/badge/-Hackathon%20Participant-0e75b6?style=flat-square&logo=devpost&logoColor=white) &nbsp; Built under time constraints as part of a team
-- ![Badge](https://img.shields.io/badge/-Technical%20Seminar%20Presenter-0e75b6?style=flat-square&logo=googlemeet&logoColor=white) &nbsp; Delivered a technical seminar to peers and faculty
-- ![Badge](https://img.shields.io/badge/-Inter%2FIntra%20College%20Competitions-0e75b6?style=flat-square&logo=googleclassroom&logoColor=white) &nbsp; Represented my institution in technical events
-- ![Badge](https://img.shields.io/badge/-Self%20Learner-0e75b6?style=flat-square&logo=udemy&logoColor=white) &nbsp; Consistently learning via certifications and personal projects
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=7C3AED)](https://github.com/shaikmdsofiyan06)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="22" valign="middle"/> GitHub Stats
+### Book Management System
+
+A responsive web application to organize, manage, search, and maintain book collections.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=22C55E)](https://github.com/shaikmdsofiyan06)
+
+</td>
+<td width="50%" valign="top">
+
+### Birthday Wishes Website
+
+A beautiful, animated, responsive birthday greeting website with interactive effects.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=06B6D4)](https://github.com/shaikmdsofiyan06)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Happy New Year Landing Page
+
+A festive landing page featuring animations, transition effects, and modern responsive design.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=7C3AED)](https://github.com/shaikmdsofiyan06)
+
+</td>
+<td width="50%" valign="top">
+
+### What's Next
+
+Currently scoping new work in AI-assisted applications, a full stack SaaS project, a personal portfolio site, and open source contributions.
+
+`AI Applications` `Full Stack SaaS` `Open Source`
+
+[![Profile](https://img.shields.io/badge/View_All_Repos-161B22?style=flat-square&logo=github&logoColor=22C55E)](https://github.com/shaikmdsofiyan06?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## Certifications
+
+<table>
+<tr>
+<td width="50%"><b>Deloitte</b><br/>Data Analytics Job Simulation</td>
+<td width="50%"><b>Microsoft & LinkedIn</b><br/>Career Essentials in Generative AI</td>
+</tr>
+<tr>
+<td width="50%"><b>BNX</b><br/>AI Tools Workshop</td>
+<td width="50%"><b>Outskill</b><br/>Gen AI Master</td>
+</tr>
+<tr>
+<td width="50%"><b>AWS</b><br/>Prompt Engineering Foundations</td>
+<td width="50%"><b>IBM</b><br/>SQL & Relational Databases 101</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## Achievements
+
+- Event Coordinator — Avinya Tech Fest
+- Technical Seminar Presenter
+- Hackathon Participant
+- Inter-College Technical Events
+- Intra-College Competitions
+- Continuous Self Learner — certifications and independent projects year-round
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## GitHub Analytics
 
 <div align="center">
 
-![Sofiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikmdsofiyan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shaikmdsofiyan06&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=F8FAFC&ring_color=22C55E" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikmdsofiyan06&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=F8FAFC" width="40%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shaikmdsofiyan06&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=shaikmdsofiyan06&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=22C55E&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="70%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikmdsofiyan06&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=shaikmdsofiyan06&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikmdsofiyan06&theme=react-dark&bg_color=0D1117&color=06B6D4&line=7C3AED&point=22C55E&hide_border=true&area=true" width="100%"/>
+
+<img src="https://ghchart.rshah.org/7C3AED/shaikmdsofiyan06" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/metrics/dashboard.svg" alt="Metrics Dashboard" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/snake/contribution-snake.gif" alt="Contribution Snake" width="100%"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## <img src="https://cdn.simpleicons.org/trophy/FFD700" width="22" valign="middle"/> GitHub Trophies
+## Connect With Me
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaikmdsofiyan06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/shaikmdsofiyan06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=06B6D4)](https://www.linkedin.com/in/shaik-md-sofiyan)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shaikmdsofiyan@gmail.com)
+
+**Open to:** Software Development Internships · Full Stack Internships · Python Developer Internships · Open Source Collaboration · Freelance Projects
 
 </div>
 
----
-
-## <img src="https://cdn.simpleicons.org/googlecalendar/06B6D4" width="22" valign="middle"/> Contribution Graph
+<img src="./assets/divider.svg" width="100%"/>
 
 <div align="center">
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/06B6D4/shaikmdsofiyan06)
+> *"Code is the closest thing we have to magic — the only limit is how well you understand it."*
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikmdsofiyan06&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="22" valign="middle"/> Nebula Metrics Dashboard
-
-<div align="center">
-
-![Nebula Metrics Dashboard](./assets/metrics/dashboard.svg)
-
-<sub>Auto-refreshed daily via a GitHub Action — see setup note below if this shows as broken.</sub>
+<img src="./assets/footer.svg" alt="Footer" width="100%"/>
 
 </div>
-
----
-
-## <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="22" valign="middle"/> Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-md-sofiyan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmdsofiyano6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikmdsofiyan06)
-
-</div>
-
----
-
-<div align="center">
-
-> *"The best way to predict the future is to create it."* — Abraham Lincoln
-
-![Footer](https://img.shields.io/badge/Feel%20free%20to%20explore%20and%20drop%20a%20star!-0e75b6?style=for-the-badge&logo=github&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111a2e,100:0D1117&height=90&section=footer" width="100%"/>
-
-</div>
-
