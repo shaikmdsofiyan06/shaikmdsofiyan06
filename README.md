@@ -1,276 +1,695 @@
-div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=4&width=1000&section=header" width="100%"/>
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
-# Shaik MD Sofiyan
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=94A3B8&center=false&vCenter=true&width=520&lines=Full+Stack+Developer;Python+%2F+Flask;Building+things+that+work" alt="typing"/>
-
-<br/>
-
-BCA student (3rd Year, 5th Semester) at Nandi Institute of Management and Science, graduating 2027. I build with Python and Flask, care about the backend as much as the interface sitting on top of it, and I'm currently looking for a Software Development internship.
-
-</td>
-<td width="38%" valign="top">
-
-<table width="100%">
-<tr><td>
-
-**Based in**
-Ballari, Karnataka, India
-
-**Studying**
-BCA · 3rd Year, 5th Sem · Class of 2027
-
-**Focused on**
-Python, Flask, Backend
-
-**Open to**
-SDE Internships
-
-</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=F8FAFC)](https://github.com/shaikmdsofiyan06)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=06B6D4)](https://www.linkedin.com/in/shaik-md-sofiyan)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=7C3AED)](mailto:shaikmdsofiyan@gmail.com)&nbsp;&nbsp;![Views](https://komarev.com/ghpvc/?username=shaikmdsofiyan06&label=Views&color=161B22&style=flat-square)
-
-</div>
+<img src="./assets/banner.svg" alt="Aurora Developer Banner" width="100%"/>
 
 <br/>
 
-> I like software that does one thing without getting in your way. Most of what I build starts as a small, slightly annoying problem I want off my plate — a quiz that needed a real backend, a page that needed to feel less static. I use AI the way I'd use a good pair programmer: to move faster on the parts I already understand, not to skip understanding them. What I'm working toward right now is simple — get good enough at backend systems that someone will trust me with production code.
-
-<br/>
-
-<table width="100%"><tr><td align="center">
-
-`Python`&nbsp; · &nbsp;`Flask`&nbsp; · &nbsp;`REST APIs`&nbsp; · &nbsp;`SQL`&nbsp; · &nbsp;`Open Source`&nbsp; · &nbsp;`AI-assisted dev`
-
-</td></tr></table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=AI-Assisted+Full-Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Turning+Ideas+Into+Impactful+Software;Building+in+Public+%E2%80%A2+Learning+in+Public" alt="Typing SVG" />
 
 <br/><br/>
 
-## Where I spend my time
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/shaik-md-sofiyan)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:shaikmdsofiyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/shaikmdsofiyan06)
 
-<table width="100%">
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+<!-- ============================================================ -->
+<!-- TABLE OF CONTENTS                                              -->
+<!-- ============================================================ -->
+
+<details>
+<summary><b>📖 Table of Contents</b></summary>
+<br/>
+
+- [Hey, I'm Sofiyan](#-hey-im-sofiyan)
+- [About Me](#-about-me)
+- [Developer Dashboard](#-developer-dashboard)
+- [Education](#-education)
+- [Tech Stack](#-tech-stack)
+- [Skill Proficiency](#-skill-proficiency)
+- [Featured Projects](#-featured-projects)
+- [Certifications](#-certifications)
+- [Achievements & Leadership](#-achievements--leadership)
+- [Currently Learning](#-currently-learning)
+- [Career Goals](#-career-goals)
+- [Open Source Goals](#-open-source-goals)
+- [GitHub Statistics](#-github-statistics)
+- [GitHub Streak](#-github-streak)
+- [GitHub Trophies](#-github-trophies)
+- [Contribution Graph](#-contribution-graph)
+- [Visitor Counter](#-visitor-counter)
+- [Let's Connect](#-lets-connect)
+- [A Line I Build By](#-a-line-i-build-by)
+- [About This Repository](#-about-this-repository)
+- [Frequently Asked Questions](#-frequently-asked-questions)
+
+</details>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- HERO / QUICK FACTS                                            -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Sparkles.png" width="28"/> Hey, I'm Sofiyan
+
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-**Core**
-The languages and tools I reach for daily, without thinking twice.
+I'm an **AI-Assisted Full-Stack Developer** based in **Ballari, Karnataka, India**, currently pursuing my **Bachelor of Computer Applications (BCA)** — 3rd Year, 5th Semester, graduating **2027**.
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" alt="core"/>
+I build practical, end-to-end software with **Python**, **Flask**, **JavaScript**, **HTML/CSS**, and **SQLite** — and I lean on AI tooling deliberately, as a force-multiplier for shipping cleaner code faster, not as a replacement for understanding it.
+
+```txt
+sofiyan.currentFocus = {
+  building : "full-stack web applications",
+  exploring: "backend architecture & open source",
+  believes : "curiosity compounds faster than talent"
+}
+```
 
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
-**Building With**
-Comfortable, still sharpening — the stack behind most of my projects.
-
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,bootstrap,git,github" alt="building"/>
-
-</td>
-<td width="33%" valign="top">
-
-**Exploring**
-Where my attention is going this year.
-
-<img src="https://skillicons.dev/icons?i=nodejs,java,c,vscode,linux" alt="exploring"/>
-
-`REST APIs` `System Design` `Postman`
+**📍 Location:** Ballari, Karnataka, India
+**🎓 Degree:** BCA — Nandi Institute of Management and Science
+**📅 Year:** 3rd Year · 5th Semester
+**🎯 Graduating:** 2027
+**💼 Role:** AI-Assisted Full-Stack Developer
+**☕ Fun fact:** Coffee + Code + Curiosity
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,100:0D1117&height=3&width=1000" width="100%"/>
-</div>
+<!-- ============================================================ -->
+<!-- ABOUT ME                                                       -->
+<!-- ============================================================ -->
 
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bust%20in%20Silhouette.png" width="26"/> About Me
 
-## Selected work
-
-<table width="100%">
+<table>
 <tr><td>
 
-**Smart Quiz AI** — a quiz platform with secure authentication, category-based quizzes, a timer, score tracking, and an analytics dashboard behind a real database instead of hardcoded questions.
-`Python` `Flask` `SQLite` `JavaScript`
-[View repository →](https://github.com/shaikmdsofiyan06)
+I'm a Computer Applications student who treats every project as a small proof that ideas can become working software. My interest sits at the intersection of **AI-assisted engineering** and **full-stack development** — I use AI tools to accelerate research, debugging, and prototyping, while staying hands-on with the fundamentals: database design, request/response flow, and clean UI logic.
+
+**What drives me:**
+
+- 🧠 **AI-Augmented Development** — using AI as a collaborator to write better code faster, not a crutch to avoid learning
+- 🌐 **Full-Stack Thinking** — comfortable moving between a Flask route, a SQLite schema, and a responsive front end
+- 🐍 **Python-First Problem Solving** — my default language for logic, automation, and backend services
+- 🌱 **Open Source Curiosity** — learning how real-world codebases are structured, documented, and maintained
+- 📚 **Continuous Learning** — every semester, certification, and side project is deliberately chosen to close a specific skill gap
+- 🧩 **Problem Solving** — I enjoy breaking a vague requirement down into a working system, one commit at a time
+
+I'm currently focused on strengthening my backend fundamentals, contributing to open source, and preparing for a **Software Development Internship** where I can apply what I've built in the classroom to real production systems.
 
 </td></tr>
-<tr><td>
+</table>
 
-**Quiz Analytics Platform** — took the quiz system further with a leaderboard, performance analytics, a proper user model, and reporting on top of cleaner data handling underneath.
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- DEVELOPER DASHBOARD                                            -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26"/> Developer Dashboard
+
+<div align="center">
+
+<img src="./assets/metrics/dashboard.svg" alt="Nebula Metrics Dashboard" width="100%"/>
+
+<sub>Auto-refreshed daily via <code>.github/workflows/metrics.yml</code> — powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- EDUCATION                                                      -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="26"/> Education
+
+<table>
+<tr>
+<td width="8%" align="center">🎓</td>
+<td>
+
+**Bachelor of Computer Applications (BCA)**
+Nandi Institute of Management and Science
+`3rd Year` · `5th Semester` · Expected Graduation: **2027**
+
+Core coursework: Database Management Systems (DBMS), Operating Systems, Data Structures, Web Technologies, and Software Engineering fundamentals — applied directly in the projects and certifications below.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- TECH STACK                                                     -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26"/> Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" alt="languages" />
+
+</td>
+<td valign="top" width="25%">
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs" alt="frameworks" />
+
+<sub>Node.js — currently learning</sub>
+
+</td>
+<td valign="top" width="25%">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="databases" />
+
+</td>
+<td valign="top" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="tools" />
+
+</td>
+</tr>
+</table>
+
+**Core Subjects:** `Database Management Systems (DBMS)` · `Operating Systems`
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3B82F6?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-3B82F6?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-3B82F6?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-3B82F6?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-06B6D4?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-06B6D4?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white) |
+| **Frameworks** | ![Flask](https://img.shields.io/badge/-Flask-8B5CF6?style=flat-square&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8B5CF6?style=flat-square&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js%20(learning)-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Databases** | ![SQLite](https://img.shields.io/badge/-SQLite-22D3EE?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-22D3EE?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F8FAFC?style=flat-square&logo=git&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-F8FAFC?style=flat-square&logo=github&logoColor=black) ![VS Code](https://img.shields.io/badge/-VS%20Code-F8FAFC?style=flat-square&logo=visualstudiocode&logoColor=black) ![Linux](https://img.shields.io/badge/-Linux-F8FAFC?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- SKILL PROFICIENCY                                              -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="26"/> Skill Proficiency
+
+<sub>A self-assessed snapshot — not a claim of mastery, a map of where I'm investing effort.</sub>
+
+```
+Python            ████████████████████░░░░  80%
+Flask             ██████████████████░░░░░░  72%
+JavaScript        ███████████████░░░░░░░░░  62%
+HTML / CSS        ████████████████████░░░░  82%
+SQL / SQLite      ████████████████░░░░░░░░  65%
+Java               ██████████████░░░░░░░░░░  56%
+C / C++            █████████████░░░░░░░░░░░  52%
+Git / GitHub       █████████████████████░░░  85%
+Node.js (Learning) ████████░░░░░░░░░░░░░░░░  32%
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🟦 Strong Foundation**
+Python, HTML/CSS, Git & GitHub — daily-driver tools I use with confidence across every project.
+
+</td>
+<td width="33%" valign="top">
+
+**🟪 Actively Building**
+Flask, JavaScript, SQL — the backbone of my full-stack projects, improving with every build.
+
+</td>
+<td width="33%" valign="top">
+
+**🟨 Deliberately Learning**
+Node.js, backend architecture, open-source workflows — this quarter's growth targets.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- FEATURED PROJECTS                                              -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="26"/> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Quiz.py
+**AI-Assisted Quiz Management System**
+
+A quiz management application built with Flask, where AI-assisted workflows were used during development to speed up question logic, scoring, and route design — while the core architecture and validation logic were built and understood end-to-end.
+
+`Flask` `Python` `JavaScript` `HTML` `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/shaikmdsofiyan06)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 QuizReal.py
+**Advanced Quiz Platform**
+
+A more advanced iteration of the quiz system, adding persistent storage with SQLite, more robust question handling, and a cleaner separation between application logic and data layer.
+
 `Python` `Flask` `SQLite`
-[View repository →](https://github.com/shaikmdsofiyan06)
 
-</td></tr>
-<tr><td>
+[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=3B82F6)](https://github.com/shaikmdsofiyan06)
 
-**Book Management System** — a small front-end app for organizing and searching a book collection. Built to get comfortable with DOM logic without a framework doing it for me.
-`HTML` `CSS` `JavaScript`
-[View repository →](https://github.com/shaikmdsofiyan06)
-
-</td></tr>
-<tr><td>
-
-**Birthday Wishes Website** — a responsive, animated greeting site. Mostly an excuse to get CSS transitions to feel natural instead of jarring.
-`HTML` `CSS` `JavaScript`
-[View repository →](https://github.com/shaikmdsofiyan06)
-
-</td></tr>
-<tr><td>
-
-**Happy New Year Landing Page** — a festive one-pager built around animation timing and layout that holds up across screen sizes.
-`HTML` `CSS` `JavaScript`
-[View repository →](https://github.com/shaikmdsofiyan06)
-
-</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=3&width=1000" width="100%"/>
-</div>
-
-<br/>
-
-## Proof of work
-
-<table width="100%">
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-**Certifications**
+### 📚 Book Management System
+**Catalog & Track Books with a Clean UI**
 
-Deloitte — Data Analytics Job Simulation
-Microsoft & LinkedIn — Career Essentials in Generative AI
-BNX — AI Tools Workshop
-Outskill — Gen AI Master
-AWS — Prompt Engineering Foundations
-IBM — SQL & Relational Databases 101
+A front-end-driven book management interface for adding, browsing, and organizing a book catalog, focused on clear structure and responsive layout using vanilla JavaScript.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/shaikmdsofiyan06)
 
 </td>
 <td width="50%" valign="top">
 
-**Achievements**
+### 🎉 Birthday Wishes Website
+**Responsive Animated Website**
 
-Event Coordinator, Avinya Tech Fest
-Technical Seminar Presenter
-Hackathon Participant
-Inter-College Technical Events
-Intra-College Technical Events
-Continuous Self Learner
+A fully responsive, animation-driven website built to deliver personalized birthday greetings, with attention to layout adaptability across screen sizes.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/shaikmdsofiyan06)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎇 Happy New Year Website
+**Animated Celebration Website**
+
+A festive, animation-rich landing page built to explore CSS animation timing, transitions, and celebratory visual design patterns.
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=3B82F6)](https://github.com/shaikmdsofiyan06)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on the way
+**Open Source & Backend Experiments**
+
+Currently building out Node.js-based backend experiments and open-source contributions — check the [pinned repositories](https://github.com/shaikmdsofiyan06) for the latest work.
+
+`Node.js` `Open Source`
+
+[![Profile](https://img.shields.io/badge/View_All_Repos-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/shaikmdsofiyan06?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,100:0D1117&height=3&width=1000" width="100%"/>
-</div>
+<!-- ============================================================ -->
+<!-- CERTIFICATIONS                                                 -->
+<!-- ============================================================ -->
 
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="26"/> Certifications
 
-## What's next
-
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%">
 
-**Learning right now**
-REST API design
-Backend architecture
-Node.js
-System design basics
-Database optimization
+**🔷 Deloitte Data Analytics Job Simulation**
+Hands-on simulation covering forensic data analytics workflows and client-style deliverables.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%">
 
-**Aiming for**
-A Software Development internship
-Scalable web applications
-Cloud technologies
-AI-powered applications
-Production-level code experience
+**🔷 Career Essentials in Generative AI**
+*Microsoft & LinkedIn Learning*
+Foundational coursework on generative AI concepts and responsible application.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%">
 
-**Open source, eventually**
-A first real pull request
-Reading codebases before writing in them
-Giving back to tools I already use
+**🔷 BNX AI Tools Workshop**
+Applied workshop on practical AI tooling for development workflows.
+
+</td>
+<td width="50%">
+
+**🔷 Outskill Gen AI Master**
+Advanced generative AI training focused on real-world use cases.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔷 AWS Prompt Engineering Foundations**
+Foundational principles of prompt design and engineering on AWS.
+
+</td>
+<td width="50%">
+
+**🔷 SQL & Relational Databases 101**
+*IBM CognitiveClass*
+Core relational database concepts and SQL querying fundamentals.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- ACHIEVEMENTS                                                   -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Trophy.png" width="26"/> Achievements & Leadership
+
+```
+2026 ─┬─ 🏆  Event Coordinator, Avinya Tech Fest
+      │      Led two competition rounds end-to-end — planning, execution, judging coordination
+      │
+      ├─ 💻  Hackathon Participant
+      │      Built under time constraints, collaborated across a team, presented a working demo
+      │
+      ├─ 🎤  Technical Seminar Presenter
+      │      Delivered a technical seminar to peers and faculty
+      │
+      ├─ 🏫  Inter-College Competitions
+      │      Represented my institution in inter-college technical events
+      │
+      └─ 🏫  Intra-College Competitions
+             Active participant across intra-college technical and coordination events
+```
+
+**Leadership Experience:** Coordinating the Avinya Tech Fest rounds sharpened my ability to manage logistics, communicate under pressure, and keep multiple moving parts — participants, judges, schedules — aligned toward a single outcome.
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- CURRENTLY LEARNING                                             -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="26"/> Currently Learning
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🟢 Node.js**
+Server-side JavaScript & async patterns
+
+</td>
+<td align="center" width="25%">
+
+**🟢 Backend Development**
+API design, auth, and data modeling
+
+</td>
+<td align="center" width="25%">
+
+**🟢 Open Source**
+Reading real codebases, first contributions
+
+</td>
+<td align="center" width="25%">
+
+**🟢 AI Automation**
+Applying AI to real developer workflows
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- CAREER GOALS                                                   -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="26"/> Career Goals
+
+- 🎯 Secure a **Software Development Internship** to apply my skills in a real production environment
+- 🎯 Grow into a well-rounded **Full Stack Engineer**, comfortable across the entire request lifecycle
+- 🎯 Become a consistent **Open Source Contributor**, not just a consumer of open-source tools
+- 🎯 Build and ship **AI-powered applications** that solve real, specific problems
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- OPEN SOURCE GOALS                                              -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="26"/> Open Source Goals
+
+<table>
+<tr><td>
+
+- 🌱 Make my first meaningful pull request to a public Python/Flask project
+- 🌱 Maintain at least one small open-source utility with proper documentation and CI
+- 🌱 Learn to review issues and PRs thoughtfully — not just write code, but communicate around it
+- 🌱 Contribute back to the tools I already rely on daily
+
+</td></tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- GITHUB STATISTICS                                              -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26"/> GitHub Statistics
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=3&width=1000" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaikmdsofiyan06&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=F8FAFC&ring_color=3B82F6" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikmdsofiyan06&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=F8FAFC&langs_count=8" width="41%" alt="Top Languages"/>
+
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## Live from GitHub
+<!-- ============================================================ -->
+<!-- GITHUB STREAK                                                  -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Fire.png" width="26"/> GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaikmdsofiyan06&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=F8FAFC&ring_color=22C55E" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikmdsofiyan06&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=F8FAFC" width="40%"/>
-
-<img src="https://streak-stats.demolab.com/?user=shaikmdsofiyan06&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=22C55E&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikmdsofiyan06&theme=react-dark&bg_color=0D1117&color=06B6D4&line=7C3AED&point=22C55E&hide_border=true&area=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shaikmdsofiyan06&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikmdsofiyan06&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub Streak" width="70%"/>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- GITHUB TROPHIES                                                -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Trophy.png" width="26"/> GitHub Trophies
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,100:0D1117&height=3&width=1000" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shaikmdsofiyan06&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" width="100%"/>
+
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- CONTRIBUTION GRAPH                                             -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="26"/> Contribution Graph
 
 <div align="center">
 
-### Let's talk
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikmdsofiyan06&theme=react-dark&bg_color=0D1117&color=22D3EE&line=3B82F6&point=8B5CF6&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
-If you're hiring for an internship, working on something in Python/Flask, or just want to compare notes on backend development — I'd like to hear from you.
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/shaikmdsofiyan06)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=06B6D4)](https://www.linkedin.com/in/shaik-md-sofiyan)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:shaikmdsofiyan@gmail.com)
+<img src="./assets/metrics/isocalendar.svg" alt="Isometric Contribution Calendar" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/snake/aurora-snake.gif" alt="Contribution Snake Animation" width="100%"/>
+
+<sub>Animated by <code>.github/workflows/snake.yml</code> using <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- VISITOR COUNTER                                                -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eyes.png" width="26"/> Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shaikmdsofiyan06&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- CONNECT                                                        -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="26"/> Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20MD%20Sofiyan-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=0D1117)](https://www.linkedin.com/in/shaik-md-sofiyan)
+[![Gmail](https://img.shields.io/badge/Email-shaikmdsofiyan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=06B6D4&labelColor=0D1117)](mailto:shaikmdsofiyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shaikmdsofiyan06-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0D1117)](https://github.com/shaikmdsofiyan06)
+[![Location](https://img.shields.io/badge/Based_in-Ballari,_Karnataka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE&labelColor=0D1117)](#)
+
+**Open to:** Software Development Internships · Full-Stack Opportunities · Open Source Collaboration · Tech Discussions
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- INSPIRATIONAL QUOTE                                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="24"/> A Line I Build By
+
+> *"Code is just an idea that refused to stay in your head."*
 
 <br/>
 
-*"The best code I've written is the code I understood well enough to explain to someone else."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- ABOUT THIS REPOSITORY                                          -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="26"/> About This Repository
+
+This is **Nebula Developer Profile** — the source behind this GitHub profile page, built around a custom **Aurora Developer** theme (deep space background, blue → cyan → purple gradients, glassmorphism-inspired card layout).
+
+**Repository structure:**
+
+```
+nebula-profile/
+├── .github/
+│   └── workflows/
+│       ├── metrics.yml     → generates the developer dashboard + isometric calendar daily
+│       └── snake.yml       → regenerates the animated contribution snake daily
+├── assets/
+│   ├── banner.svg           → animated hero banner (gradient text, particles, wave)
+│   ├── footer.svg           → animated closing footer
+│   ├── divider.svg          → glowing animated section divider
+│   ├── icons/                → reserved for custom badge/icon overrides
+│   └── backgrounds/          → reserved for card/section background assets
+├── README.md                 → this file
+└── LICENSE                   → MIT
+```
+
+**How the automation works:**
+
+1. `metrics.yml` runs on a daily schedule (and on every push to `main`), regenerating `assets/metrics/dashboard.svg` and `assets/metrics/isocalendar.svg` via [lowlighter/metrics](https://github.com/lowlighter/metrics), then commits the refreshed SVGs back into the repo.
+2. `snake.yml` runs on a daily schedule, regenerating the animated contribution snake via [Platane/snk](https://github.com/Platane/snk) and publishing the output to an `output` branch, which this README references directly.
+3. All GitHub stats cards (`github-readme-stats`, `github-readme-streak-stats`, `github-profile-trophy`, `github-readme-activity-graph`) are theme-matched to the Aurora Developer palette using their `theme`/color query parameters — no forked or self-hosted instance required.
+
+**Want to reuse this structure for your own profile?** Fork it, swap the personal details, regenerate the SVGs with your own name/colors, and point the workflows at your username. Just keep it your own — don't copy another developer's specific banner artwork or wording wholesale.
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- FAQ                                                            -->
+<!-- ============================================================ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Question%20Mark.png" width="26"/> Frequently Asked Questions
+
+<details>
+<summary><b>What does "AI-Assisted Full-Stack Developer" mean, exactly?</b></summary>
 <br/>
+It means I use AI tools deliberately during development — for debugging, boilerplate, and research — while I still design the architecture, write and understand the core logic, and own every decision in the codebase. AI accelerates the work; it doesn't replace understanding it.
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=60&width=1000&section=footer" width="100%"/>
+<details>
+<summary><b>What are you looking for right now?</b></summary>
+<br/>
+A Software Development Internship where I can apply Python/Flask/full-stack skills on a real product, learn from experienced engineers, and contribute to open-source-adjacent workflows.
+</details>
+
+<details>
+<summary><b>How can I reach you?</b></summary>
+<br/>
+Email or LinkedIn are the fastest ways — both are linked in the <a href="#-lets-connect">Connect section</a> above.
+</details>
+
+<details>
+<summary><b>Is this profile template open for others to use?</b></summary>
+<br/>
+Yes — it's released under the MIT License. Fork it, restyle it, and make it your own.
+</details>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ============================================================ -->
+<!-- ANIMATED FOOTER                                                -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="./assets/footer.svg" alt="Footer" width="100%"/>
+
+<sub>⭐ If something here resonated with you, consider starring the repo — it genuinely helps.</sub>
 
 </div>
