@@ -1,0 +1,64 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Shaik MD Sofiyan GitHub stats">
+<defs>
+
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150a24"/><stop offset="100%" stop-color="#1e0f33"/>
+    </linearGradient>
+    <linearGradient id="ringGradS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4fd8"/><stop offset="100%" stop-color="#4fe0ff"/>
+    </linearGradient>
+    <filter id="glowS" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="statsClip"><rect width="480" height="300" rx="18"/></clipPath>
+    
+</defs>
+<g clip-path="url(#statsClip)">
+<rect width="480" height="300" fill="url(#statsBg)"/>
+<rect x="1" y="1" width="478" height="298" rx="17" fill="none" stroke="#5b2a86" stroke-width="1.4"/>
+<text x="24" y="34" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700" fill="#f5e9ff">GitHub Stats</text>
+<text x="24" y="52" font-family="Fira Code, monospace" font-size="10.5" fill="#c9a8e8">@shaikmdsofiyan06</text>
+<circle cx="398" cy="90" r="46" fill="none" stroke="#2a1240" stroke-width="9"/>
+<circle cx="398" cy="90" r="46" fill="none" stroke="url(#ringGradS)" stroke-width="9" stroke-linecap="round" transform="rotate(-90 398 90)" stroke-dasharray="289.0" stroke-dashoffset="289.0" filter="url(#glowS)">
+  <animate attributeName="stroke-dashoffset" values="289.0;75.1" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</circle>
+<text x="398" y="97" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="26" fill="#ffd24f" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.6s" fill="freeze"/>A+
+</text>
+<text x="398" y="120" text-anchor="middle" font-family="Fira Code, monospace" font-size="9" fill="#c9a8e8">RANK</text>
+<g opacity="0" transform="translate(-30,0)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-30,0;0,0" dur="0.5s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <text x="24" y="78" font-family="sans-serif" font-size="14" fill="#ff4fd8">&#9733;</text>
+  <text x="46" y="78" font-family="Fira Code, monospace" font-size="12.5" fill="#c9a8e8">Total Stars:</text>
+  <text x="230" y="78" font-family="Fira Code, monospace" font-size="12.5" font-weight="700" fill="#f5e9ff">12</text>
+</g>
+<g opacity="0" transform="translate(-30,0)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-30,0;0,0" dur="0.5s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <text x="24" y="112" font-family="sans-serif" font-size="14" fill="#ff4fd8">&#9998;</text>
+  <text x="46" y="112" font-family="Fira Code, monospace" font-size="12.5" fill="#c9a8e8">Total Commits (2026):</text>
+  <text x="230" y="112" font-family="Fira Code, monospace" font-size="12.5" font-weight="700" fill="#f5e9ff">540+</text>
+</g>
+<g opacity="0" transform="translate(-30,0)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-30,0;0,0" dur="0.5s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <text x="24" y="146" font-family="sans-serif" font-size="14" fill="#ff4fd8">&#8672;</text>
+  <text x="46" y="146" font-family="Fira Code, monospace" font-size="12.5" fill="#c9a8e8">Total PRs:</text>
+  <text x="230" y="146" font-family="Fira Code, monospace" font-size="12.5" font-weight="700" fill="#f5e9ff">9</text>
+</g>
+<g opacity="0" transform="translate(-30,0)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-30,0;0,0" dur="0.5s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <text x="24" y="180" font-family="sans-serif" font-size="14" fill="#ff4fd8">&#9888;</text>
+  <text x="46" y="180" font-family="Fira Code, monospace" font-size="12.5" fill="#c9a8e8">Total Issues:</text>
+  <text x="230" y="180" font-family="Fira Code, monospace" font-size="12.5" font-weight="700" fill="#f5e9ff">6</text>
+</g>
+<g opacity="0" transform="translate(-30,0)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="-30,0;0,0" dur="0.5s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <text x="24" y="214" font-family="sans-serif" font-size="14" fill="#ff4fd8">&#9881;</text>
+  <text x="46" y="214" font-family="Fira Code, monospace" font-size="12.5" fill="#c9a8e8">Contributed To:</text>
+  <text x="230" y="214" font-family="Fira Code, monospace" font-size="12.5" font-weight="700" fill="#f5e9ff">4 repos</text>
+</g>
+<text x="24" y="286" font-family="Fira Code, monospace" font-size="8.5" fill="#c9a8e8" opacity="0.7">local static card &#183; update values in gen_cards.py</text>
+</g>
+</svg>
